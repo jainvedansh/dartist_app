@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "612538349664",
+    "firebase_url": "https://dartist-9ddc9.firebaseio.com",
+    "project_id": "dartist-9ddc9",
+    "storage_bucket": "dartist-9ddc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612538349664:android:4dcff0f4b578140331ab05",
+        "android_client_info": {
+          "package_name": "com.dartist.dartist_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612538349664-117htilahb0v9n3vj045gbv1vb6qfe43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkiYY4XHRpouYF8gTSJqyU428X-Bhs6uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612538349664-117htilahb0v9n3vj045gbv1vb6qfe43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
